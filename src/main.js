@@ -62,5 +62,3 @@ function mostUsedWord() {
 }
 
 mostUsedWord();
-
-module.exports = { mostUsedWord }
